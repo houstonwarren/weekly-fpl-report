@@ -1,56 +1,58 @@
 element,position,team_name,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,bps,starts,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,total_points,in_dreamteam,code,web_name,first_name,second_name,element_type
-248,1,CLAMBORGER,90,0,0,0,1,0,0,0,1,0,4,0,8,1,0.0,0.0,0.0,1.54,2,false,80201,Leno,Bernd,Leno,1
-3,2,CLAMBORGER,90,1,0,0,2,0,0,0,0,0,0,0,15,1,0.49,0.01,0.5,2.16,7,false,226597,Gabriel,Gabriel,dos Santos Magalhães,2
-495,3,CLAMBORGER,87,0,0,0,1,0,0,0,0,0,0,0,13,1,0.06,0.03,0.09,0.8,2,false,441164,Pedro Porro,Pedro,Porro,2
-363,4,CLAMBORGER,77,0,0,0,2,0,0,0,0,0,0,0,17,1,0.09,0.68,0.77,0.6,1,false,58621,Walker,Kyle,Walker,2
-45,5,CLAMBORGER,45,0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0.02,0.02,0.0,1,false,441302,Maatsen,Ian,Maatsen,2
-369,6,CLAMBORGER,90,0,0,1,0,0,0,0,0,0,0,3,35,1,0.0,0.23,0.23,1.01,9,true,216051,Dalot,Diogo,Dalot Teixeira,2
-199,7,CLAMBORGER,90,0,0,1,0,0,0,0,0,0,0,0,8,1,0.5,0.13,0.63,1.7,3,false,232413,Eze,Eberechi,Eze,3
-336,8,CLAMBORGER,60,0,0,1,0,0,0,0,0,0,0,0,11,1,0.04,0.02,0.06,0.54,3,false,424876,Szoboszlai,Dominik,Szoboszlai,3
-117,9,CLAMBORGER,34,0,0,0,0,0,0,0,1,0,0,0,-3,0,0.04,0.01,0.05,0.22,0,false,536916,Buonanotte,Facundo,Buonanotte,3
-401,10,CLAMBORGER,90,0,0,0,3,0,0,0,0,0,0,0,5,1,0.09,0.02,0.11,2.29,2,false,219168,Isak,Alexander,Isak,4
+413,1,CLAMBORGER,90,0,0,0,3,0,0,0,0,0,8,0,9,1,0.0,0.0,0.0,2.29,3,false,98747,Pope,Nick,Pope,1
+36,2,CLAMBORGER,45,0,0,0,1,0,0,0,0,0,0,0,0,1,0.0,0.01,0.01,0.51,1,false,101188,Digne,Lucas,Digne,2
+409,3,CLAMBORGER,16,0,0,0,1,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.6,1,false,441191,Livramento,Tino,Livramento,2
+145,4,CLAMBORGER,90,0,0,0,2,0,0,0,0,0,0,0,-1,1,0.0,0.01,0.01,1.53,1,false,111478,Veltman,Joël,Veltman,2
+587,5,CLAMBORGER,53,0,0,0,3,0,0,0,0,0,0,0,4,1,0.0,0.01,0.01,1.2,1,false,450070,Summerville,Crysencio,Summerville,3
+433,6,CLAMBORGER,82,0,0,0,2,0,0,0,0,1,0,0,-3,1,0.07,0.03,0.1,0.89,-1,false,222531,Gibbs-White,Morgan,Gibbs-White,3
+230,7,CLAMBORGER,90,0,0,0,1,0,0,0,0,0,0,0,20,1,0.13,0.34,0.47,0.66,2,false,433154,McNeil,Dwight,McNeil,3
+54,8,CLAMBORGER,90,0,2,0,1,0,0,0,1,0,0,3,34,1,0.0,0.6,0.6,0.51,10,true,244850,Rogers,Morgan,Rogers,3
+78,9,CLAMBORGER,69,0,0,0,3,0,0,0,0,0,0,0,9,1,0.35,0.01,0.36,1.65,2,false,437730,Semenyo,Antoine,Semenyo,3
+220,10,CLAMBORGER,90,0,0,0,1,0,0,0,0,0,0,0,3,1,0.26,0.01,0.27,0.66,2,false,177815,Calvert-Lewin,Dominic,Calvert-Lewin,4
 58,11,CLAMBORGER,90,1,0,0,1,0,0,0,0,0,0,0,30,1,0.34,0.06,0.4,0.51,6,false,178301,Watkins,Ollie,Watkins,4
-142,12,CLAMBORGER,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,false,49262,Steele,Jason,Steele,1
-216,15,CLAMBORGER,45,0,0,0,0,0,0,0,0,0,0,0,3,1,0.0,0.0,0.0,1.42,1,false,496221,Wharton,Adam,Wharton,3
-413,1,Choochie Maserati,90,0,0,0,3,0,0,0,0,0,8,0,9,1,0.0,0.0,0.0,2.29,3,false,98747,Pope,Nick,Pope,1
-24,2,Choochie Maserati,45,0,0,0,1,0,0,0,0,0,0,0,3,0,0.0,0.0,0.0,1.56,1,false,198869,White,Benjamin,White,2
-361,3,Choochie Maserati,90,0,0,0,2,0,0,0,1,0,0,0,5,1,0.21,0.34,0.55,0.65,0,false,171314,Rúben,Rúben,Gato Alves Dias,2
-369,4,Choochie Maserati,90,0,0,1,0,0,0,0,0,0,0,3,35,1,0.0,0.23,0.23,1.01,9,true,216051,Dalot,Diogo,Dalot Teixeira,2
-366,5,Choochie Maserati,90,0,0,1,0,0,0,0,0,0,0,0,12,1,0.36,0.14,0.5,1.01,3,false,141746,B.Fernandes,Bruno,Borges Fernandes,3
-494,6,Choochie Maserati,87,1,1,0,1,0,0,0,1,0,0,3,48,1,0.92,1.08,2.0,0.8,12,true,172780,Maddison,James,Maddison,3
-385,7,Choochie Maserati,29,0,0,0,0,0,0,0,0,0,0,0,4,0,0.0,0.05,0.05,0.84,1,false,176297,Rashford,Marcus,Rashford,3
-19,8,Choochie Maserati,83,1,0,0,1,0,0,0,0,0,0,1,27,1,0.41,0.02,0.43,1.24,8,false,209289,Smith Rowe,Emile,Smith Rowe,3
-207,9,Choochie Maserati,45,0,0,0,0,0,0,0,0,0,0,0,3,1,0.0,0.0,0.0,1.42,1,false,231747,Mateta,Jean-Philippe,Mateta,4
-251,10,Choochie Maserati,16,0,1,0,0,0,0,0,0,0,0,0,16,0,0.16,0.01,0.17,0.3,4,false,244042,Muniz,Rodrigo,Muniz Carvalho,4
-453,11,Choochie Maserati,8,0,0,0,1,0,0,0,0,0,0,0,3,0,0.0,0.0,0.0,0.55,1,false,155511,Armstrong,Adam,Armstrong,4
-346,13,Choochie Maserati,69,0,0,0,2,0,0,0,0,0,0,0,9,1,0.05,0.06,0.11,0.6,2,false,248875,Doku,Jérémy,Doku,3
-200,14,Choochie Maserati,90,0,0,1,0,0,0,0,0,0,0,0,25,1,0.0,0.0,0.0,1.7,6,false,209036,Guéhi,Marc,Guéhi,2
-380,15,Choochie Maserati,90,0,0,1,0,0,0,0,1,0,0,0,18,1,0.21,0.01,0.22,1.01,5,false,221820,Martinez,Lisandro,Martínez,2
-310,1,Love to My Lover,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,false,116535,A.Becker,Alisson,Ramses Becker,1
-3,2,Love to My Lover,90,1,0,0,2,0,0,0,0,0,0,0,15,1,0.49,0.01,0.5,2.16,7,false,226597,Gabriel,Gabriel,dos Santos Magalhães,2
-339,3,Love to My Lover,90,0,0,1,0,0,0,0,0,0,0,0,28,1,0.0,0.0,0.0,1.08,6,false,97032,Virgil,Virgil,van Dijk,2
-505,4,Love to My Lover,90,0,0,0,1,0,0,0,0,0,0,0,10,1,0.05,0.04,0.09,0.8,2,false,487053,Udogie,Destiny,Udogie,2
-182,5,Love to My Lover,63,1,0,1,0,0,0,0,0,0,0,0,27,1,0.42,0.0,0.42,0.57,8,false,244851,Palmer,Cole,Palmer,3
-503,6,Love to My Lover,90,0,2,0,1,0,0,0,0,0,0,2,43,1,0.07,0.45,0.52,0.8,10,false,85971,Son,Son,Heung-min,3
-366,7,Love to My Lover,90,0,0,1,0,0,0,0,0,0,0,0,12,1,0.36,0.14,0.5,1.01,3,false,141746,B.Fernandes,Bruno,Borges Fernandes,3
-398,8,Love to My Lover,82,0,0,0,2,0,0,0,0,0,0,0,11,1,0.39,0.08,0.47,1.83,2,false,232826,Gordon,Anthony,Gordon,3
-327,9,Love to My Lover,71,2,0,1,0,0,0,0,0,0,0,3,59,1,0.59,0.09,0.68,0.54,16,true,244731,Luis Díaz,Luis,Díaz,3
-4,10,Love to My Lover,90,0,0,0,2,0,0,0,0,0,0,0,8,1,0.06,0.0,0.06,2.16,2,false,219847,Havertz,Kai,Havertz,4
-207,11,Love to My Lover,45,0,0,0,0,0,0,0,0,0,0,0,3,1,0.0,0.0,0.0,1.42,1,false,231747,Mateta,Jean-Philippe,Mateta,4
-358,12,Love to My Lover,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,false,88248,Ortega Moreno,Stefan,Ortega Moreno,1
-180,13,Love to My Lover,63,2,1,1,0,0,0,0,0,0,0,3,77,1,0.76,0.06,0.82,0.57,16,true,517052,N.Jackson,Nicolas,Jackson,4
-171,14,Love to My Lover,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,false,482609,Gusto,Malo,Gusto,2
-211,15,Love to My Lover,90,0,0,1,0,0,0,0,0,0,0,0,23,1,0.0,0.01,0.01,1.7,6,false,247348,Muñoz,Daniel,Muñoz,2
-347,1,just copying pep m8,90,0,0,0,2,0,0,0,1,0,1,0,-2,1,0.0,0.0,0.0,0.65,0,false,121160,Ederson M.,Ederson,Santana de Moraes,1
-18,2,just copying pep m8,90,0,0,0,2,0,0,0,0,0,0,0,7,1,0.0,0.0,0.0,2.16,1,false,462424,Saliba,William,Saliba,2
-339,3,just copying pep m8,90,0,0,1,0,0,0,0,0,0,0,0,28,1,0.0,0.0,0.0,1.08,6,false,97032,Virgil,Virgil,van Dijk,2
-3,4,just copying pep m8,90,1,0,0,2,0,0,0,0,0,0,0,15,1,0.49,0.01,0.5,2.16,7,false,226597,Gabriel,Gabriel,dos Santos Magalhães,2
-578,5,just copying pep m8,73,1,0,0,1,0,0,0,0,0,0,1,24,1,0.02,0.0,0.02,1.17,9,true,466075,Calafiori,Riccardo,Calafiori,2
-495,6,just copying pep m8,87,0,0,0,1,0,0,0,0,0,0,0,13,1,0.06,0.03,0.09,0.8,2,false,441164,Pedro Porro,Pedro,Porro,2
-503,7,just copying pep m8,90,0,2,0,1,0,0,0,0,0,0,2,43,1,0.07,0.45,0.52,0.8,10,false,85971,Son,Son,Heung-min,3
-348,8,just copying pep m8,20,0,0,0,0,0,0,0,0,0,0,0,3,0,0.07,0.24,0.31,0.06,1,false,209244,Foden,Phil,Foden,3
-327,9,just copying pep m8,71,2,0,1,0,0,0,0,0,0,0,3,59,1,0.59,0.09,0.68,0.54,16,true,244731,Luis Díaz,Luis,Díaz,3
-351,10,just copying pep m8,90,1,0,0,2,0,0,0,0,0,0,3,33,1,0.81,0.02,0.83,0.65,9,false,223094,Haaland,Erling,Haaland,4
-58,11,just copying pep m8,90,1,0,0,1,0,0,0,0,0,0,0,30,1,0.34,0.06,0.4,0.51,6,false,178301,Watkins,Ollie,Watkins,4
-235,12,just copying pep m8,90,0,0,0,1,0,0,0,0,0,1,0,7,1,0.0,0.01,0.01,0.66,2,false,111234,Pickford,Jordan,Pickford,1
-108,13,just copying pep m8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,false,144485,Toney,Ivan,Toney,4
+235,12,CLAMBORGER,90,0,0,0,1,0,0,0,0,0,1,0,7,1,0.0,0.01,0.01,0.66,2,false,111234,Pickford,Jordan,Pickford,1
+44,13,CLAMBORGER,90,1,0,0,1,0,0,0,0,0,0,1,33,1,0.21,0.02,0.23,0.51,9,true,199798,Konsa,Ezri,Konsa Ngoyo,2
+200,14,CLAMBORGER,90,0,0,1,0,0,0,0,0,0,0,0,25,1,0.0,0.0,0.0,1.7,6,false,209036,Guéhi,Marc,Guéhi,2
+589,15,CLAMBORGER,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,false,91889,Füllkrug,Niclas,Füllkrug,4
+443,1,Choochie Maserati,90,0,0,0,2,0,0,0,0,0,1,0,1,1,0.0,0.0,0.0,0.94,1,false,85633,Sels,Matz,Sels,1
+210,2,Choochie Maserati,90,0,0,1,0,0,0,0,0,0,0,0,27,1,0.0,0.08,0.08,1.7,6,false,244723,Mitchell,Tyrick,Mitchell,2
+291,3,Choochie Maserati,90,0,0,0,1,0,0,0,0,0,0,0,10,1,0.06,0.06,0.12,1.1,2,false,218218,Faes,Wout,Faes,2
+436,4,Choochie Maserati,90,0,0,0,2,0,0,0,0,0,0,0,10,1,0.0,0.01,0.01,0.94,1,false,575476,Murillo,Murillo,Santiago Costa dos Santos,2
+99,5,Choochie Maserati,90,1,0,0,3,0,0,0,0,0,0,1,31,1,0.64,0.02,0.66,3.52,8,false,446008,Mbeumo,Bryan,Mbeumo,3
+514,6,Choochie Maserati,90,0,0,0,3,0,0,0,0,0,0,0,14,1,0.12,0.11,0.23,2.19,2,false,178186,Bowen,Jarrod,Bowen,3
+434,7,Choochie Maserati,90,0,1,0,2,0,0,0,1,0,0,0,18,1,0.11,0.03,0.14,0.94,4,false,209046,Hudson-Odoi,Callum,Hudson-Odoi,3
+48,8,Choochie Maserati,45,0,0,0,1,0,0,0,0,0,0,0,4,1,0.03,0.19,0.22,0.51,1,false,122806,McGinn,John,McGinn,3
+233,9,Choochie Maserati,61,0,0,0,1,0,0,0,0,0,0,0,11,1,0.0,0.03,0.03,0.51,2,false,449871,Onana,Amadou,Onana,3
+401,10,Choochie Maserati,90,0,0,0,3,0,0,0,0,0,0,0,5,1,0.09,0.02,0.11,2.29,2,false,219168,Isak,Alexander,Isak,4
+447,11,Choochie Maserati,71,1,0,0,2,0,0,0,0,0,0,2,32,1,0.79,0.0,0.79,0.87,8,false,60689,Wood,Chris,Wood,4
+248,12,Choochie Maserati,90,0,0,0,1,0,0,0,1,0,4,0,8,1,0.0,0.0,0.0,1.54,2,false,80201,Leno,Bernd,Leno,1
+129,13,Choochie Maserati,19,0,0,0,0,0,0,0,0,0,0,0,3,0,0.02,0.0,0.02,0.0,1,false,475168,João Pedro,João Pedro,Junqueira de Jesus,4
+88,14,Choochie Maserati,90,0,0,0,3,0,0,0,0,0,0,0,0,1,0.0,0.01,0.01,3.52,1,false,432830,Collins,Nathan,Collins,2
+45,15,Choochie Maserati,45,0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0.02,0.02,0.0,1,false,441302,Maatsen,Ian,Maatsen,2
+91,1,Love to My Lover,90,0,0,0,3,0,0,0,0,0,6,0,13,1,0.0,0.01,0.01,3.52,3,false,118342,Flekken,Mark,Flekken,1
+415,2,Love to My Lover,90,0,0,0,3,0,0,0,0,0,0,0,5,1,0.4,0.2,0.6,2.29,1,false,119471,Schär,Fabian,Schär,2
+236,3,Love to My Lover,90,0,0,0,1,0,0,0,0,0,0,0,6,1,0.0,0.0,0.0,0.66,2,false,17761,Tarkowski,James,Tarkowski,2
+255,4,Love to My Lover,90,0,0,0,1,0,0,0,0,0,0,0,6,1,0.07,0.02,0.09,1.54,2,false,169528,Robinson,Antonee,Robinson,2
+398,5,Love to My Lover,82,0,0,0,2,0,0,0,0,0,0,0,11,1,0.39,0.08,0.47,1.83,2,false,232826,Gordon,Anthony,Gordon,3
+239,6,Love to My Lover,73,0,1,0,1,0,0,0,1,0,0,0,24,1,0.1,0.63,0.73,1.24,4,false,159533,Adama,Adama,Traoré,3
+394,7,Love to My Lover,90,0,0,0,3,0,0,0,0,0,0,0,8,1,0.05,0.05,0.1,2.29,2,false,208706,Bruno G.,Bruno,Guimarães Rodriguez Moura,3
+527,8,Love to My Lover,71,0,0,0,3,0,0,0,0,0,0,0,7,1,0.08,0.06,0.14,1.51,2,false,224024,L.Paquetá,Lucas,Tolentino Coelho de Lima,3
+392,9,Love to My Lover,90,1,0,0,3,0,0,0,0,0,0,3,34,1,0.43,0.14,0.57,2.29,10,false,201666,Barnes,Harvey,Barnes,3
+207,10,Love to My Lover,45,0,0,0,0,0,0,0,0,0,0,0,3,1,0.0,0.0,0.0,1.42,1,false,231747,Mateta,Jean-Philippe,Mateta,4
+541,11,Love to My Lover,90,1,0,0,3,0,0,0,1,0,0,3,34,1,0.03,0.22,0.25,1.73,8,false,430871,Cunha,Matheus,Santos Carneiro Da Cunha,4
+513,12,Love to My Lover,90,0,0,0,3,0,0,0,0,0,2,0,-1,1,0.0,0.0,0.0,2.19,1,false,84182,Areola,Alphonse,Areola,1
+516,15,Love to My Lover,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,false,164555,Coufal,Vladimír,Coufal,2
+47,1,just copying pep m8,90,0,0,0,1,0,0,0,0,0,3,0,11,1,0.0,0.0,0.0,0.51,3,false,98980,Martinez,Emiliano,Martínez Romero,1
+418,2,just copying pep m8,73,0,0,0,2,0,0,0,0,0,0,0,7,1,0.0,0.02,0.02,1.69,1,false,77794,Trippier,Kieran,Trippier,2
+122,3,just copying pep m8,81,0,0,0,2,0,0,0,0,0,0,0,8,1,0.02,0.17,0.19,1.53,1,false,204214,Estupiñan,Pervis,Estupiñán,2
+52,4,just copying pep m8,90,0,0,0,1,0,0,0,1,0,0,0,6,1,0.0,0.02,0.02,0.51,1,false,244954,Pau,Pau,Torres,2
+120,5,just copying pep m8,90,0,0,0,2,0,0,0,1,0,0,0,5,1,0.0,0.03,0.03,1.53,0,false,83299,Dunk,Lewis,Dunk,2
+199,6,just copying pep m8,90,0,0,1,0,0,0,0,0,0,0,0,8,1,0.5,0.13,0.63,1.7,3,false,232413,Eze,Eberechi,Eze,3
+136,7,just copying pep m8,90,0,1,0,2,0,0,0,0,0,0,0,21,1,0.0,0.22,0.22,1.53,5,false,451340,Mitoma,Mitoma,Kaoru,3
+19,8,just copying pep m8,83,1,0,0,1,0,0,0,0,0,0,1,27,1,0.41,0.02,0.43,1.24,8,false,209289,Smith Rowe,Emile,Smith Rowe,3
+525,9,just copying pep m8,90,0,0,0,3,0,0,0,0,0,0,0,10,1,0.19,0.01,0.2,2.19,2,false,460842,Kudus,Mohammed,Kudus,3
+251,10,just copying pep m8,16,0,1,0,0,0,0,0,0,0,0,0,16,0,0.16,0.01,0.17,0.3,4,false,244042,Muniz,Rodrigo,Muniz Carvalho,4
+268,11,just copying pep m8,72,0,0,0,1,0,0,0,1,0,0,0,6,1,0.05,0.03,0.08,2.13,1,false,463034,Delap,Liam,Delap,4
+554,12,just copying pep m8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,false,149065,José Sá,José,Malheiro de Sá,1
+211,14,just copying pep m8,90,0,0,1,0,0,0,0,0,0,0,0,23,1,0.0,0.01,0.01,1.7,6,false,247348,Muñoz,Daniel,Muñoz,2
+584,15,just copying pep m8,31,0,0,0,1,0,0,0,0,0,0,0,4,0,0.25,0.01,0.26,0.61,1,false,204814,Brereton Díaz,Ben,Brereton Díaz,3

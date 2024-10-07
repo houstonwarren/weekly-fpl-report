@@ -28,13 +28,16 @@ def get_data():
 
 def get_league_details(league_id):
     url = endpoints['league_details'].format(League_ID=league_id)
-    response = requests.get(url)
-    df = pl.from_records(response.json()['league_entries'])
+    response = requests.get(url).json()
+    df = pl.from_records(response['league_entries'])
     df = df.with_columns(
     pl.col("joined_time").map_elements(
         lambda x: x[:10], return_dtype=pl.Utf8
         ).str.to_datetime("%Y-%m-%d")
     )
+    df = df.drop(pl.col("id"))
+    df = df.rename({"entry_id": "id"})
+
     return df
 
 
@@ -50,6 +53,7 @@ def get_all_players():
 # ----------------------------------------- STATS ---------------------------------------- #
 def get_weekly_player_stats(gw):
     live = requests.get(endpoints['event_live'].format(GW=gw)).json()
+
     live = live['elements']
     stats = []
     for player_id, data in live.items():
@@ -57,7 +61,6 @@ def get_weekly_player_stats(gw):
         player_stats['element'] = int(player_id)
         stats.append(player_stats)
     stats_df = pl.from_records(stats)
-
     return stats_df
 
 
